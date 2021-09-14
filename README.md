@@ -1,4 +1,4 @@
-- 👋 Hi, I’m MarziyehAdineh,I am a teacher and a programmer. One of my goals is entrepreneur
+- 👋 Hi, I’m MarziyehAdineh
 - 😊 I’m interested in Teaching technology،programming & Designing App and Websites & telegram bot
 - ☘️ I’m currently learning React.js 
 - 📫 How to reach me linkedin.com/in/marziyeh-adineh-103034211
